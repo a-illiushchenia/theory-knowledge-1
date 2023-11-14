@@ -60,3 +60,4 @@ out/
 .vscode/
 
 generated/
+/.idea/
